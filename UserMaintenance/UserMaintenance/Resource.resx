@@ -123,6 +123,9 @@
   <data name="DefaultFileName" xml:space="preserve">
     <value>nevek</value>
   </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Törlés</value>
+  </data>
   <data name="FullName" xml:space="preserve">
     <value>Teljes Név</value>
   </data>
